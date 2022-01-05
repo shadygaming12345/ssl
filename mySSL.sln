@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mySSL", "mySSL\mySSL.vcxproj", "{29CCE66C-66AA-4C9C-9E89-FCCE468E8FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CCE66C-66AA-4C9C-9E89-FCCE468E8FCA}.Debug|x64.ActiveCfg = Debug|x64
+		{29CCE66C-66AA-4C9C-9E89-FCCE468E8FCA}.Debug|x64.Build.0 = Debug|x64
+		{29CCE66C-66AA-4C9C-9E89-FCCE468E8FCA}.Release|x64.ActiveCfg = Release|x64
+		{29CCE66C-66AA-4C9C-9E89-FCCE468E8FCA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CB3601-167A-419C-A7F2-E765FEDE86BE}
+	EndGlobalSection
+EndGlobal
